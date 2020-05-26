@@ -2,7 +2,6 @@
 
 
 <div>
-        <img src="src/main-review.png.png" alt="">
     <div>
         <p>
         "Pagas-Admin" is powerful admin Dashboard for scaling data, is a template base on ngx-admin
@@ -19,6 +18,7 @@
          miscellaneous, etc.
         </p>
     </div>
+        <img src="src/main-review.png.png" alt="">
     <img src="src/main.png" alt="">
 </div>
 
