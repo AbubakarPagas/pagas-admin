@@ -2,8 +2,8 @@
 
 
 <div>
-    <div>
         <img src="src/main-review.png.png" alt="">
+    <div>
         <p>
         "Pagas-Admin" is powerful admin Dashboard for scaling data, is a template base on ngx-admin
          build with custom design, build with Angular 9 and angular CLI. it comes with pre-intergrated
